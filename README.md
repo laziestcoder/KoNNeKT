@@ -1,2 +1,2 @@
 # KoNNeKT
-A Social Network website Website 
+A Social Network Website 
