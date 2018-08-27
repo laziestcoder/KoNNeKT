@@ -1,2 +1,2 @@
-# konnekt.pw
+# KoNNeKT
 A Social Network website Website 
